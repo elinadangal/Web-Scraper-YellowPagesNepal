@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Large data outputs & logs
+output/
+combined_output.csv
+combined_output.json
+progress_log.jsonl
+sitemap.json
+
+# Environment variables / API keys
+.env
